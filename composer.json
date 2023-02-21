@@ -1,0 +1,23 @@
+{
+    "name": "leeo/appsalon_php",
+    "description": "Proyecto PHP 8 SQL  Javascript SASS Gulp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models",
+            "Classes\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lean-98"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "vlucas/phpdotenv": "^5.4",
+        "ext-gd": "*"
+    }
+}
