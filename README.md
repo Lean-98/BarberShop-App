@@ -2,6 +2,9 @@
 # BarberShop APP - Maqueta
 Html Css Sass Gulp JavaScript PHP Composer symfony/dotenv MySQL 
 
+## Screenshots
+[![Screenshot-1.png](https://i.postimg.cc/d1SMJbWh/Screenshot-1.png)](https://postimg.cc/ZB3scMzm)
+
 
 ## Installation
 
